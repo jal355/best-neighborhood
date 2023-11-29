@@ -1,12 +1,13 @@
 # best-neighborhood (Team Foodies)
 Big ideas final project
+This project analyzes 3 datasets to determine which Pittsburgh neighborhood is the best based on places to eat.
 
-Team members and their email addresses
-    Julie Lawler (jal355@pitt.edu)
-    Christian Bolinas (cab358@pitt.edu)
-    Brian Simon (brs339@pitt.edu)
+Team:
+    - Julie Lawler (jal355@pitt.edu)
+    - Christian Bolinas (cab358@pitt.edu)
+    - Brian Simon (brs339@pitt.edu)
     
-Description and links to the datasets used
+Data Sets:
 
     https://data.wprdc.org/dataset/sidewalk-to-street-walkability-ratio (walkability data)
     This dataset contains records for all the sidewalks in pittsburgh.
@@ -16,5 +17,3 @@ Description and links to the datasets used
 
     https://data.wprdc.org/dataset/allegheny-county-food-facilities
     This dataset contains a list of food facilities in allegheny county. 
-
-This repository analyzes 3 datasets to determine which Pittsburgh neighborhood is the best based on places to eat.
