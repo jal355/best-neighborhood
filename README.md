@@ -3,9 +3,9 @@ Big ideas final project
 This project analyzes 3 datasets to determine which Pittsburgh neighborhood is the best based on places to eat.
 
 Team:
-    - Julie Lawler (jal355@pitt.edu)
-    - Christian Bolinas (cab358@pitt.edu)
-    - Brian Simon (brs339@pitt.edu)
+* Julie Lawler (jal355@pitt.edu)
+* Christian Bolinas (cab358@pitt.edu)
+* Brian Simon (brs339@pitt.edu)
     
 Data Sets:
 
