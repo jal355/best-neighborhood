@@ -9,11 +9,14 @@ Team:
     
 Data Sets:
 
-    https://data.wprdc.org/dataset/sidewalk-to-street-walkability-ratio (walkability data)
+    Julie Lawler-
+    https://data.wprdc.org/dataset/sidewalk-to-street-walkability-ratio 
     This dataset contains records for all the sidewalks in pittsburgh.
 
+    Christian Bolinas-
     https://data.wprdc.org/dataset/allegheny-county-supermarkets-convenience-stores/resource/626357fa-c95d-465f-9a02-3121655b2b78 
     This dataset contains groceries and convenience stores by zipcode, can use pd operations to convert zipcode to neighborhood.
-
+    
+    Brian Simon-
     https://data.wprdc.org/dataset/allegheny-county-food-facilities
     This dataset contains a list of food facilities in allegheny county. 
